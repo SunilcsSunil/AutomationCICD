@@ -17,7 +17,7 @@ import rahulshettyacademy.pageobjects.ConfirmationPage;
 import rahulshettyacademy.pageobjects.ProductCatalogue;
 
 public class ErrorValidationsTest extends BaseTest {
-
+//only for cicd practice put this comment
 	@Test(groups= {"ErrorHandling"},retryAnalyzer=Retry.class)
 	public void LoginErrorValidation() throws IOException, InterruptedException {
 
